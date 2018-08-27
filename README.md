@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/oceanhackweek/ohw18_echopype.svg?branch=master)](https://travis-ci.org/oceanhackweek/ohw18_echopype)
+NOTE: This repository is deprecated and now begin developed under [OSOceanAcoustics/echopype](https://github.com/OSOceanAcoustics/echopype) as a community-driven project.
 
 # echopype
 Open source tools for unpacking and analyzing active sonar data.
