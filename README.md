@@ -1,4 +1,4 @@
-NOTE: This repository is deprecated and now begin developed under [OSOceanAcoustics/echopype](https://github.com/OSOceanAcoustics/echopype) as a community-driven project.
+NOTE: This repository is deprecated and now being developed under [OSOceanAcoustics/echopype](https://github.com/OSOceanAcoustics/echopype) as a community-driven project.
 
 # echopype
 Open source tools for unpacking and analyzing active sonar data.
