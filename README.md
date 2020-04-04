@@ -1,4 +1,4 @@
-## NOTE: This package is being developed under [OSOceanAcoustics/echopype](https://github.com/OSOceanAcoustics/echopype) as a community-driven project.
+## Note: This package is now being developed under [OSOceanAcoustics/echopype](https://github.com/OSOceanAcoustics/echopype) as a community-driven project.
 
 -----------------
 
